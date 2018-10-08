@@ -3,6 +3,9 @@
   Alice ->> Bob: asynchronous call
 #+end_src
 
-#+results:
+#+RESULTS:
+#+ATTR_HTML: :style margin-left: auto; margin-right: auto;
 [[file:tryout.png]]
+
+
 

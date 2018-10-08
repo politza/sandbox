@@ -1,7 +1,8 @@
-#+begin_src plantuml :file tryout.png :exports results
+#+begin_src plantuml :file tryout.png
   Alice -> Bob: synchronous call
   Alice ->> Bob: asynchronous call
 #+end_src
 
-#+RESULTS:
+#+results:
 [[file:tryout.png]]
+

@@ -1,6 +1,7 @@
-#+begin_src plantuml :file tryout.png
+#+begin_src plantuml :file tryout.png :noexport
   Alice -> Bob: synchronous call
   Alice ->> Bob: asynchronous call
 #+end_src
+
 
 [[tryout.png]]

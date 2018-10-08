@@ -1,9 +1,7 @@
-#+name: test
 #+begin_src plantuml :file tryout.png :exports results
   Alice -> Bob: synchronous call
   Alice ->> Bob: asynchronous call
 #+end_src
 
 #+RESULTS:
-
-#+html: <p align="center"><img src="call_test()" /></p>
+[[file:tryout.png]]

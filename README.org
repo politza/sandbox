@@ -3,4 +3,5 @@
   Alice ->> Bob: asynchronous call
 #+end_src
 
+#+RESULTS:
 [[file:tryout.png]]

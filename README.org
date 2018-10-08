@@ -4,4 +4,4 @@
 #+end_src
 
 #+results:
-[[file:tryout.png]]
+[[file:tryout.png][Image]]

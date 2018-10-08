@@ -3,4 +3,4 @@
   Alice ->> Bob: asynchronous call
 #+end_src
 
-[[file:tryout.png][Image]]
+[[tryout.png]]
